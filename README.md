@@ -12,10 +12,11 @@ multicritère, filtres, tri et pagination.
 
 ### Onglet Livres — recherche, filtres, tri et pagination
 ![Gestion des livres](screenshots/livres.png)
+![Gestion des livres](screenshots/ajouter_livre.png)
 
 ### Onglet Auteurs — recherche et pagination
 ![Gestion des auteurs](screenshots/auteurs.png)
-
+![Gestion des auteurs](screenshots/ajouter_auteur.png)
 ## Fonctionnalités
 
 ### Livres
@@ -113,6 +114,3 @@ tester rapidement la recherche, les filtres, le tri et la pagination.
 - JDBC (MySQL Connector/J)
 - MySQL 8
 
-## Licence
-
-Projet académique — libre d'utilisation à des fins pédagogiques.
