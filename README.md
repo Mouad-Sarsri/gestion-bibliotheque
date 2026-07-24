@@ -1,4 +1,4 @@
-# 📚 Gestion de bibliothèque
+# Gestion de bibliothèque
 
 Application de bureau (Java Swing) permettant de gérer le catalogue d'une
 bibliothèque : livres, auteurs, éditeurs et catégories, avec recherche
